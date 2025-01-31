@@ -4,28 +4,31 @@ The Hotel Booking Analysis Project aimed to explore hotel booking trends using T
 Data Overview & Analysis
 The dataset included information on hotel types, booking sources, seasonal trends, cancellation rates, and guest demographics. I structured the data and leveraged interactive Tableau dashboards to uncover meaningful insights.
 
-Key Insights & Findings
-✅ Hotel Booking Trends
+Key Insights & Findings:
 
+✅ Hotel Booking Trends
 City Hotels (66.45%) had a significantly higher number of bookings compared to Resort Hotels (33.55%).
 Bookings fluctuated over 2015-2017, with 2016 having the highest number of reservations (~38,140).
-✅ Seasonality & Peak Periods
 
+✅ Seasonality & Peak Periods
 August had the highest number of bookings, making it a peak season for both City and Resort Hotels.
 January and November had the lowest bookings, indicating an off-season period.
-✅ Market Segment Performance
 
+✅ Market Segment Performance
 Online Travel Agencies (OTAs) accounted for the majority of bookings (56,477), followed by Offline Travel Agents/Tour Operators (24,219) and Group bookings (19,811).
 Direct bookings (12,606) were relatively lower, indicating the dominance of third-party platforms.
-✅ Booking Cancellations & Customer Behavior
 
+✅ Booking Cancellations & Customer Behavior
 Cancellations were significant, with City Hotels experiencing more cancellations than Resort Hotels.
 Many guests had prior bookings, indicating a pattern of repeat visitors.
-✅ Guest Demographics & Preferences
 
+✅ Guest Demographics & Preferences
 Guests came from a diverse range of countries, highlighting the hotels’ international reach.
 Weekday vs. Weekend stays varied, with City Hotels showing higher weekday stays while Resort Hotels saw a balance between weekdays and weekends.
-Tableau Dashboards & Visualizations
+
+
+Tableau Dashboards & Visualizations:
+
 To represent these insights effectively, I created interactive Tableau dashboards with:
 📊 Bar charts – Comparing hotel bookings over the years
 📉 Line graphs – Seasonal trends in bookings

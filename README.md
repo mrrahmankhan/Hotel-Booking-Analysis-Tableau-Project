@@ -30,17 +30,27 @@ Weekday vs. Weekend stays varied, with City Hotels showing higher weekday stays 
 Tableau Dashboards & Visualizations:
 
 To represent these insights effectively, I created interactive Tableau dashboards with:
+
 📊 Bar charts – Comparing hotel bookings over the years
+
 📉 Line graphs – Seasonal trends in bookings
+
 📌 Pie charts – Market segment distribution
+
 🌍 Geospatial maps – Guest origins by country
+
 📈 Stacked charts – Cancellation trends and booking behaviors
 
-Conclusion & Business Impact
+Conclusion & Business Impact:
+
 The analysis provided actionable insights for hotel management, revenue optimization, and customer engagement strategies:
+
 ✅ Adjust pricing and promotions during peak/off-peak seasons
+
 ✅ Enhance direct booking strategies to reduce dependency on OTAs
+
 ✅ Improve cancellation policies to minimize lost revenue
+
 ✅ Target key guest demographics to increase repeat customers
 
 By leveraging Tableau’s powerful visualization capabilities, I transformed raw data into clear, data-driven insights, enabling hotels to enhance their operations and customer experience.
